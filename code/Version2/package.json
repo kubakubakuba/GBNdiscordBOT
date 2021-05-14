@@ -1,0 +1,22 @@
+{
+  "name": "testBOT",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "exports": "0.0.1",
+    "express": "^4.17.1",
+    "mongoose": "^5.12.8",
+    "node-fetch": "^2.6.1",
+    "pretty-ms": "^7.0.1",
+    "random-puppy": "^1.1.0",
+    "snekfetch": "^4.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jakub Pelc",
+  "license": "ISC"
+}
